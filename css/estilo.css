@@ -1,3 +1,11 @@
+#agrupar {
+  position: relative;
+  right: -200px;
+  width: 100%;
+  margin: 5 auto;
+ 
+}
+
 #cabecera{
 background-color: #DFD758;
 width: 980px;
@@ -64,4 +72,5 @@ width: 980px;
   position: relative;
   top: 30px;
   width: 950px;
+  text-align: center;
 }
