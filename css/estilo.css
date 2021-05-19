@@ -1,0 +1,67 @@
+#cabecera{
+background-color: #DFD758;
+width: 980px;
+  overflow: auto;
+}
+#menu {
+  background-color: #ADAB8C;
+  overflow: auto;
+  width: 980px;
+}
+#menu li{
+  list-style:none;
+  float: left;
+  color: #000;
+  text-align: left;
+  padding: 5px 26px;
+  text-decoration: none;
+  font-size: 20px;
+  
+
+}
+#menu li:hover {
+  background-color: #DFD758;
+  color: black;
+  
+}
+
+#menu ul{
+  overflow: auto;
+  font-size: 20px;
+  font-size: 2px;
+  padding: 0px;
+  
+}
+
+#art1{
+  background-color: #DFD758;
+  padding: 0px 2px;
+    height: 230px;
+    width: 700px;
+}
+
+#art2{
+    background-color: #DFD758;
+  padding: 0px 2px;
+    height: 200px;
+    width: 700px;
+}
+
+#columna{
+  background-color: #ADAB8C;
+      height: 230px;
+      width: 250px;
+      float: right;
+      position: relative;
+      top: -450px;
+      right: 350px
+}
+
+#pie{
+  background-color: #ADAB8C;
+  overflow: auto;
+  padding:  26px;
+  position: relative;
+  top: 30px;
+  width: 950px;
+}
